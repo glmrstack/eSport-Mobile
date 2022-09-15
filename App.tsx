@@ -1,10 +1,10 @@
-import { View } from 'react-native';
+import { Background } from './src/components/Background';
 
 /** Render Components */
 export default function App() {
   return (
-    <View >
+    <Background>
 
-    </View>
+    </Background>
   );
 }
