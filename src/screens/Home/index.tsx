@@ -14,7 +14,7 @@ export function Home() {
       />
 
       <Heading
-        title="Encontre seu duo"
+        title="Encontre seu duo!"
         subtitle="Selecione o game que deseja jogar..."
       />
 
