@@ -19,7 +19,7 @@ export const GAMES = [
   },
   {
     id: '4',
-    name: 'Apex Legends',
+    name: 'Apex',
     ads: '3',
     cover: require('../assets/games/game-4.png')
   },
